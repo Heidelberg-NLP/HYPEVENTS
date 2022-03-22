@@ -11,3 +11,8 @@ We used the following script to prepare our training :
 
 Preprocessed data can be found in ```data/counterfactual```
 
+## Unsupervised Setting
+
+We used BERT score to evaluate our hypothesis that the generated possible next event observation (O^{2}_{H_{j}}) given the more plausible hypothesis Hj
+should be more similar to observation {O_2}.
+
