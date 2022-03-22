@@ -19,4 +19,22 @@ should be more similar to observation {O_2}.
 ```pip install bert-score```
 
 
+### Citation
+
+```
+@inproceedings{paul-frank-2021-generating,
+    title = "Generating Hypothetical Events for Abductive Inference",
+    author = "Paul, Debjit  and
+      Frank, Anette",
+    booktitle = "Proceedings of *SEM 2021: The Tenth Joint Conference on Lexical and Computational Semantics",
+    month = aug,
+    year = "2021",
+    address = "Online",
+    publisher = "Association for Computational Linguistics",
+    url = "https://aclanthology.org/2021.starsem-1.6",
+    doi = "10.18653/v1/2021.starsem-1.6",
+    pages = "67--77"
+    }
+```
+
 
