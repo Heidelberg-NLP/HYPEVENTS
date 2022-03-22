@@ -13,6 +13,10 @@ Preprocessed data can be found in ```data/counterfactual```
 
 ## Unsupervised Setting
 
-We used BERT score to evaluate our hypothesis that the generated possible next event observation (O^{2}_{H_{j}}) given the more plausible hypothesis Hj
+We used BERT score to evaluate our hypothesis that the generated possible next event observation (O^{2}_{H_{j}}) given the more plausible hypothesis H_{j}
 should be more similar to observation {O_2}.
+
+```pip install bert-score```
+
+
 
