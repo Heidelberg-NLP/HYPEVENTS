@@ -18,7 +18,8 @@ should be more similar to observation {O_2}.
 
 ```pip install bert-score```
 
-run: ```get_bert_score.py --generated_file --test_file --label_file``` 
+Run the following script to get the bert score on anli test: 
+```get_bert_score.py output_file data/anli/test.jsonl data/anli/test-labels.lst``` 
 
 
 ### Citation
