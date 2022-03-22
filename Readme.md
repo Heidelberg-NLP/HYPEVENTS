@@ -17,6 +17,7 @@ We used BERT score to evaluate our hypothesis that the generated possible next e
 should be more similar to observation {O_2}.
 
 ```pip install bert-score```
+run: ```get_bert_score.py generated_file test_file label_file``` 
 
 
 ### Citation
