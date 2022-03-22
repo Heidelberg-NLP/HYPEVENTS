@@ -8,5 +8,6 @@ Along with our code we include the relevant datasets used in the paper. The TIME
 We train GPT-2 model to generate a possible event that could happen next, given some counterfactual scenarios for a given story. 
 We used the following script to prepare our training : 
 ```create_counterfactual_data.py```
+
 Preprocessed data can be found in ```data/counterfactual```
 
